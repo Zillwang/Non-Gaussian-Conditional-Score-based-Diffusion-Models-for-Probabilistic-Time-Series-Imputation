@@ -5,7 +5,7 @@ This is the poster only, email me if you are interested about the source code.
 
 <p align="center">
   <br>
-  <img src="CSDI.png" width="650" height="500">
+  <img src="CSDI.png" width="850" height="500">
   <br>
 </p>
 # Non-Gaussian-Conditional-Score-based-Diffusion-Models-for-Probabilistic-Time-Series-Imputation
